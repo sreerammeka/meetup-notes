@@ -8,7 +8,10 @@ Bounded Context
 Commands
 Domain Events
 Saga Pattern
-Eventstorming: Eventstorming is the technique that you used to identify bounded contexts/service boundaries
+Eventstorming: Eventstorming is the technique that you used to identify bounded contexts/service boundaries.
+Eventstorming is nothing but brainstorming with notes
+
+Eventstorming tools: Mural, Lucidchart
 
 DDD related to BDD and TDD? Yes
 
