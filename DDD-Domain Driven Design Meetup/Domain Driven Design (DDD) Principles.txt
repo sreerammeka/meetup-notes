@@ -1,0 +1,30 @@
+# What is DDD- Domain-Driven Design?
+DDD is more related to Business Domain Principles that needs to be implemented in Software Development
+
+# Terms
+Model
+Product
+Bounded Context
+Commands
+Domain Events
+Saga Pattern
+Eventstorming: Eventstorming is the technique that you used to identify bounded contexts/service boundaries
+
+DDD related to BDD and TDD? Yes
+
+Event Driven vs Domain Driven
+
+One Bounded Context => One Microservice?? No, you can have multiple microservices in the same bounded context.
+
+What's the difference between domain-driven and event-driven microservices?
+
+Explore Spock testing framework.  Cases are written in the following format:
+`given:
+  when:
+  then:`
+
+How Synchronous communication occurs in DDD means??
+
+DDD Principles
+1. Use related terms such as LoanPayment etc ClaimServices when developing a Loan or Claims Application.
+2.

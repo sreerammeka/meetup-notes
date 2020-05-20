@@ -1,0 +1,3 @@
+# DDD for Airline example
+
+We might have Bounded Contexts such as BookingCanceled,
