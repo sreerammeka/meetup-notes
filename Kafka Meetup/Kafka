@@ -1,0 +1,35 @@
+# Kafka
+# Kafka Streams Topology (Building a Web Application with Kafka as your database)
+
+Learn about Kafka at https://www.confluent.io
+
+Kafka is not a database but a database development toolkit
+
+Kafka Confluent Community Catalyst program- https://www.confluent.io/nominate/
+A Confluent Community Catalyst is a person who invests relentlessly in the Confluent and/or Apache Kafka® communities. They make it a habit of contributing knowledge, enthusiasm, support, encouragement, mentoring and sometimes even code to one of the most innovative communities on earth. The Catalysts are some of the most elite contributors who are willing to multiply and empower the developer community and share the goodness of event streaming platforms with others.
+
+Kafka Meetups- https://events.confluent.io/meetups
+
+Kafka Slack- cnfl.io/slack
+
+Kafka Quizzer Link- http://34.72.215.238:8080/
+
+Kafka can only be used with applications developed in Java? Kafka has be used with Python but doesn't have all the features
+
+Kafka for Python- https://faust.readthedocs.io/en/latest/
+
+Stream
+Peek
+mapvalues
+to
+
+https://www.confluent.io/blog/transactional-systems-with-apache-kafka/
+
+Rekeying- https://www.confluent.io/blog/transactional-systems-with-apache-kafka/
+
+KOZO pattern-  Kafka Observer, Zookeeper Observer
+
+KStreams question: From a scaling perspective (thinking auto scaling in kubernetes for e.g.). Any strategies/best practices beyond just increasing partitions and consumers for those partitions?
+
+Kafka Consumer in Java- https://docs.confluent.io/current/clients/javadocs/org/apache/kafka/clients/consumer/KafkaConsumer.html#pause-java.util.Collection-
+
